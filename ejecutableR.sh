@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Llamar a R:
 module load R-bundle-CRAN
 
